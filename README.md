@@ -1,4 +1,4 @@
-## Sou um mtécnico em informática fazendo graduação em IA.
+## Sou um técnico em informática fazendo graduação em IA.
 
 <!--
 **LucioEmanuel/LucioEmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
